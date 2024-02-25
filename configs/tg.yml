@@ -1,0 +1,10 @@
+# Telegram configurations
+
+bot:
+  bot_config_id:
+    name: ""
+    token: ""
+
+chat:
+  chat_config_id:
+    chat_id: 
